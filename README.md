@@ -1,5 +1,7 @@
-# DevOps Capstone Template
+# devops-capstone-project
+## Project Description
 
+This is the capstone project for the IBM DevOps and Software Engineering Professional Certificate. It implements a Customer Accounts RESTful microservice that allows creating, reading, updating, deleting, and listing customer accounts for an e-commerce platform. The service is built using Python and Flask, following Test Driven Development practices with CI/CD pipelines for automated testing, linting, and deployment.
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
